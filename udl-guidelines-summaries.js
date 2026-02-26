@@ -6,8 +6,8 @@ const udlDetails = {
     "url": "https://udlguidelines.cast.org/representation/perception"
   },
   "1.1": {
-    "label": "Support opportunities to customize the display of information",
-    "title": "Consideration 1.1 Support opportunities to customize the display of information",
+    "label": "Support opportunities to customise the display of information",
+    "title": "Consideration 1.1 Support opportunities to customise the display of information",
     "summary": "Digital materials let students adjust how information looks — font size, contrast, layout — in ways print simply can't. Building in these options means students spend less energy struggling with the format and more on the actual learning.",
     "url": "https://udlguidelines.cast.org/representation/perception/customize-display"
   },
@@ -246,8 +246,8 @@ const udlDetails = {
     "url": "https://udlguidelines.cast.org/engagement/emotional-capacity"
   },
   "9.1": {
-    "label": "Recognize expectations, beliefs, and motivations",
-    "title": "Consideration 9.1 Recognize expectations, beliefs, and motivations",
+    "label": "Recognise expectations, beliefs, and motivations",
+    "title": "Consideration 9.1 Recognise expectations, beliefs, and motivations",
     "summary": "What students believe about themselves as learners — whether they think they're capable, whether effort matters — shapes everything. Help students develop an honest and positive understanding of their own motivations and what drives them.",
     "url": "https://udlguidelines.cast.org/engagement/emotional-capacity/expectations-beliefs-motivations"
   },
